@@ -33,7 +33,7 @@ Who this course is for:
 
 Samples for Github Actions DevOps pipelines and workflows.
 
-[![010-blank-workflow](https://github.com/HoussemDellai/github-actions-course/actions/workflows/010-blank-workflow.yml/badge.svg)](https://github.com/HoussemDellai/github-actions-course/actions/workflows/010-blank-workflow.yml)
+[![010-blank-workflow](https://github.com/8infinitecloud/github-course-actions/actions/workflows/010-blank-workflow.yml/badge.svg)](https://github.com/8infinitecloud/github-course-actions/actions/workflows/010-blank-workflow.yml)
 
 [![020-manual-workflow](https://github.com/HoussemDellai/github-actions-course/actions/workflows/020-manual-input-workflow.yml/badge.svg)](https://github.com/HoussemDellai/github-actions-course/actions/workflows/020-manual-input-workflow.yml)
 
