@@ -48,3 +48,5 @@ Samples for Github Actions DevOps pipelines and workflows.
 [![052-docker-ghcr-workflow](https://github.com/8infinitecloud/github-course-actions/actions/workflows/052-docker-ghcr-workflow.yml/badge.svg)](https://github.com/8infinitecloud/github-course-actions/actions/workflows/052-docker-ghcr-workflow.yml)
 
 [![070-self-hosted-runner](https://github.com/8infinitecloud/github-course-actions/actions/workflows/070-self-hosted-runner.yml/badge.svg)](https://github.com/8infinitecloud/github-course-actions/actions/workflows/070-self-hosted-runner.yml)
+
+[![080-resusable-workflow-caller](https://github.com/8infinitecloud/github-course-actions/actions/workflows/080-resusable-workflow-caller.yml/badge.svg)](https://github.com/8infinitecloud/github-course-actions/actions/workflows/080-resusable-workflow-caller.yml)
