@@ -41,8 +41,8 @@ Samples for Github Actions DevOps pipelines and workflows.
 
 [![031-build-deploy-webapp-to-azure](https://github.com/HoussemDellai/github-actions-course/actions/workflows/031-build-deploy-webapp-to-azure.yml/badge.svg)](https://github.com/HoussemDellai/github-actions-course/actions/workflows/031-build-deploy-webapp-to-azure.yml)
 
-[![040-github-linter](https://github.com/HoussemDellai/github-actions-course/actions/workflows/040-github-linter.yml/badge.svg)](https://github.com/HoussemDellai/github-actions-course/actions/workflows/040-github-linter.yml)
+[![040-github-linter](https://github.com/8infinitecloud/github-course-actions/actions/workflows/040-github-linter.yml/badge.svg)](https://github.com/8infinitecloud/github-course-actions/actions/workflows/040-github-linter.yml)
 
-[![050-docker-build-workflow](https://github.com/HoussemDellai/github-actions-course/actions/workflows/050-docker-build-workflow.yml/badge.svg)](https://github.com/HoussemDellai/github-actions-course/actions/workflows/050-docker-build-workflow.yml)
+[![050-docker-build-workflow](https://github.com/8infinitecloud/github-course-actions/actions/workflows/050-docker-build-workflow.yml/badge.svg)](https://github.com/8infinitecloud/github-course-actions/actions/workflows/050-docker-build-workflow.yml)
 
 [![052-docker-ghcr-workflow](https://github.com/HoussemDellai/github-actions-course/actions/workflows/052-docker-ghcr-workflow.yml/badge.svg)](https://github.com/HoussemDellai/github-actions-course/actions/workflows/052-docker-ghcr-workflow.yml)
